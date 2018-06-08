@@ -1,3 +1,3 @@
 source 'https://rubygems.org' do
-    gem 'sinatra'
+    gem 'sinatra', '~> 2.0.2'
 end
